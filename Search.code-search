@@ -1,0 +1,19 @@
+# Query: stephewildrick
+# Flags: IgnoreExcludeSettings
+
+5 results - 5 files
+
+stephenwildrick • karma.conf.js:
+  19:       dir: require('path').join(__dirname, './coverage/stephenwildrick'),
+
+stephenwildrick • package-lock.json:
+  2:   "name": "stephenwildrick",
+
+stephenwildrick • README.md:
+  1: # Stephenwildrick
+
+stephenwildrick • e2e/src/app.e2e-spec.ts:
+  13:     expect(page.getTitleText()).toEqual('stephenwildrick app is running!');
+
+stephenwildrick • src/app/app.component.ts:
+  9:   title = 'stephenwildrick';

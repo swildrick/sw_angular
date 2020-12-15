@@ -1,0 +1,14 @@
+@import '~foundation-sites/scss/foundation';
+
+.box-about {
+    margin:0 auto;
+    padding:2rem;
+    
+    @include breakpoint(medium) {
+        padding:4rem 6rem;
+    }
+
+    h3, p {
+        color:white;
+    }
+}

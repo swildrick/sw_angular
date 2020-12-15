@@ -1,0 +1,23 @@
+@import '~foundation-sites/scss/foundation';
+
+.txt-email {
+    padding-top: .5rem;;
+    font-size: 0.8rem;
+    color:$dark-gray;
+}
+
+.icons {
+    margin-top:2rem;
+}
+
+.footer-icon {
+    width: 1.8rem;
+    opacity:.3;
+    margin:.5rem auto 0;
+    display:block;
+    transition: all 0.6s;
+
+    &:hover {
+        opacity:.8;
+      }
+}
